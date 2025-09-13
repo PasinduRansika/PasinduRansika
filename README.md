@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **projects**
 
-- 📫 How to reach me **v.pasindurasnika@gmai.com**
+- 📫 How to reach me **v.pasinduransika@gmail.com**
 
 - ⚡ Fun fact **Huge WWE fan**
   
