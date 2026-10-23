@@ -33,7 +33,7 @@
 - 🚀 Working on **NatureFLOW** and **GymBuddy**
 - 🤝 Open to collaborating on backend and open-source projects
 - 🎯 Goal: Become a skilled backend engineer and secure a Software Engineering internship
-- ⚡ Fun fact: WWE fan — Acknowledge the Tribal Chief! ☝️
+- ⚡ Fun fact: WWE fan Acknowledge the Tribal Chief! ☝️
 
 ---
 
