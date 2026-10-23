@@ -3,11 +3,11 @@
 
 # Hi 👋, I'm Pasindu Ransika
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Aspiring+Java+Backend+Engineer;Full-Stack+Development+Enthusiast;Building+REST+APIs+with+Spring+Boot;Learning+%7C+Building+%7C+Improving" alt="Animated Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Aspiring+Java+Backend+Engineer;Full+Stack+Development+Enthusiast;Learning+Spring+Boot+and+REST+APIs;Learning+%7C+Building+%7C+Improving" alt="Animated Introduction" />
 
 <br/>
 
-### ☕ Java • Spring Boot • REST APIs • Databases
+### ☕ Java | Spring Boot | REST APIs | Databases
 
 <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-161B22?style=for-the-badge&labelColor=30363D" alt="Sri Lanka" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge&labelColor=30363D" alt="Collaboration" />
@@ -15,27 +15,23 @@
 
 <br/><br/>
 
-**Software Engineering undergraduate passionate about backend development, scalable applications, and solving real-world problems.**
+I'm a Software Engineering undergraduate who enjoys learning new technologies and building projects. My main focus is Java backend development, and I'm working on improving my skills through practice and real projects.
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering undergraduate at **The Open University of Sri Lanka**
-- ☕ Aspiring **Java Backend Engineer**
-- 🌱 Currently learning **Java, Spring Boot, React, and REST API development**
-- 🔐 Exploring **Spring Security, JWT, authentication, and authorization**
-- 🗄️ Working with **MySQL, relational databases, and JPA/Hibernate**
-- 🧪 Improving my knowledge of **JUnit, integration testing, and Postman**
-- 🐳 Learning **Docker, Git workflows, and GitHub Actions**
-- 🚀 Working on **NatureFLOW** and **GymBuddy**
-- 🤝 Open to collaborating on backend and open-source projects
-- 🎯 Goal: Become a skilled backend engineer and secure a Software Engineering internship
-- ⚡ Fun fact: WWE fan Acknowledge the Tribal Chief! ☝️
-
----
+- 🎓 Studying Software Engineering at **The Open University of Sri Lanka**
+- ☕ Working towards becoming a **Java Backend Engineer**
+- 🌱 Currently learning **Java, Spring Boot, React, and REST APIs**
+- 🔐 Learning about **Spring Security, JWT, and authentication**
+- 🗄️ Working with **MySQL, SQL, and JPA/Hibernate**
+- 🧪 Practicing **JUnit, integration testing, and Postman**
+- 🐳 Exploring **Docker, Git, and GitHub Actions**
+- 🚀 Currently working on **NatureFLOW** and **GymBuddy**
+- 🤝 Interested in collaborating on Java and backend projects
+- 🎯 Preparing for my first Software Engineering internship
+- ⚡ Fun fact: I'm a huge WWE fan. Acknowledge the Tribal Chief! ☝️
 
 ## 🤝 Connect With Me
 
@@ -52,8 +48,6 @@
 </a>
 
 </div>
-
----
 
 ## 🧰 Tech Stack
 
@@ -81,7 +75,7 @@
 
 </div>
 
-### 🛠️ Developer Tools & Platforms
+### 🛠️ Tools
 
 <div align="center">
 
@@ -89,34 +83,33 @@
 
 </div>
 
----
-
 ## 🌟 Featured Projects
 
-### 🌱 NatureFLOW — Plantation Management System
+### 🌱 NatureFLOW
 
-A team-developed plantation management platform designed to improve plantation operations, data management, and traceability.
+**Plantation Management System**
 
-**Tech Stack:** Java • Spring Boot • Spring Security • JWT • MySQL • React • Docker
+NatureFLOW is a team project focused on managing plantation activities and records. It includes features for managing plants, plots, plantings, and other plantation operations.
 
-**Development Areas:**
-- RESTful API development
-- Authentication and role-based authorization
+**Technologies:** Java, Spring Boot, Spring Security, JWT, MySQL, React, Docker
+
+Some of the backend areas I've been working with include:
+
+- REST API development
+- Authentication and authorization
 - Database integration using JPA/Hibernate
-- API testing and integration testing
-- Collaborative Git workflows
+- API testing
+- Git branching and pull requests
 
-> 🔒 Private team repository — public documentation or a demonstration can be linked when available.
+The team repository is currently private.
 
-### 🏋️ GymBuddy — Gym Management System
+### 🏋️ GymBuddy
 
-A Java-based gym management application for practicing object-oriented programming, application design, and software development fundamentals.
+**Gym Management System**
 
-**Tech Stack:** Java • OOP
+GymBuddy is a Java project I'm building to practice object-oriented programming and improve my understanding of application development.
 
-> 🔗 Public repository link can be added when available.
-
----
+**Technologies:** Java, OOP
 
 ## 📊 GitHub Analytics
 
@@ -126,7 +119,7 @@ A Java-based gym management application for practicing object-oriented programmi
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=pasinduransika&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF"
-  alt="Pasindu's GitHub Statistics"
+  alt="GitHub Statistics"
   width="49%"
 />
 
@@ -138,7 +131,7 @@ A Java-based gym management application for practicing object-oriented programmi
 
 <br/><br/>
 
-### 🔥 GitHub Contribution Streak
+### 🔥 Contribution Streak
 
 <img
   src="https://streak-stats.demolab.com?user=pasinduransika&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=FF9E64&amp;currStreakLabel=58A6FF"
@@ -151,53 +144,43 @@ A Java-based gym management application for practicing object-oriented programmi
 ### 📅 Contribution History
 
 <a href="https://github.com/pasinduransika?tab=overview">
-  <img src="https://img.shields.io/badge/View_My-GitHub_Contributions-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Contributions"/>
+  <img src="https://img.shields.io/badge/View-My_GitHub_Contributions-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Contributions"/>
 </a>
 
 <br/><br/>
 
-### 🏆 Achievements
+### 🏆 GitHub Achievements
 
 <a href="https://github.com/pasinduransika?tab=achievements">
-  <img src="https://img.shields.io/badge/View_My-GitHub_Achievements-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Achievements"/>
+  <img src="https://img.shields.io/badge/View-My_Achievements-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Achievements"/>
 </a>
 
 </div>
 
----
+## 🎯 What I'm Learning
 
-## 🎯 Currently Learning & Improving
-
-<div align="center">
-
-| Area | Focus |
+| Technology | Topics |
 |:---|:---|
 | ☕ Java | OOP, Collections, Streams, Exception Handling |
-| 🌱 Spring Boot | Controllers, Services, Repositories, REST APIs |
-| 🔐 Security | Spring Security, JWT, Role-Based Access |
-| 🗄️ Databases | SQL, MySQL, JPA/Hibernate |
-| 🧪 Testing | JUnit, Integration Testing, Postman |
+| 🌱 Spring Boot | REST APIs, Controllers, Services, Repositories |
+| 🔐 Security | Spring Security, JWT |
+| 🗄️ Databases | MySQL, SQL, JPA/Hibernate |
+| 🧪 Testing | JUnit, Postman, Integration Testing |
 | 🐳 DevOps | Docker, Git, GitHub Actions |
-| 🎨 Frontend | React, Responsive UI Development |
+| 🎨 Frontend | React, Responsive Web Development |
 
-</div>
-
----
-
-## 💡 Developer Mindset
+## 💡 A Little Motivation
 
 <div align="center">
 
-> "Great software isn't just about writing code. It's about understanding problems, designing reliable solutions, and continuously improving."
+> I believe the best way to become a better developer is to keep learning, practice what I learn, and build things along the way.
 
 <br/>
 
-### 🚀 Code. Learn. Build. Improve.
+### ☕ Keep Learning. Keep Building.
 
-**Thanks for visiting my GitHub profile!**
+Thanks for visiting my profile! 👋
 
-Feel free to explore my repositories, share feedback, or connect with me.
-
-⭐ Always learning. Always building.
+Feel free to check out my repositories or connect with me.
 
 </div>
