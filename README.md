@@ -71,10 +71,10 @@ Content-Type: application/json
     </td>
     <td width="50%" valign="top">
       <h3>🏋️ GymBuddy</h3>
-      <p><strong>Gym Management System</strong></p>
-      <p>A personal Java project for practicing object-oriented programming and learning how to structure a gym management application.</p>
+      <p><strong>Gym Management Demo</strong></p>
+      <p>A Java OOP project that models gym memberships, simulated payments, and class bookings.</p>
       <p><code>Java</code> <code>OOP</code></p>
-      <p><sub>🚨 A Java OOP demo that models gym memberships, simulated payments, and class bookings.</sub></p>
+      <p><sub>✅ Demo complete</sub></p>
     </td>
   </tr>
 </table>
