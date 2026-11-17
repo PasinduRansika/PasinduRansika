@@ -1,175 +1,115 @@
+<h1 align="center">Hi 👋, I'm Pasindu Ransika</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Software+Engineering+Undergraduate;Aspiring+Java+Backend+Engineer;Building+REST+APIs+with+Spring+Boot" alt="Software Engineering Undergraduate · Aspiring Java Backend Engineer" />
+</p>
 
-# Hi 👋, I'm Pasindu Ransika
+<p align="center">
+  <strong>☕ Java · Spring Boot · REST APIs · MySQL</strong>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Aspiring+Java+Backend+Engineer;Full+Stack+Development+Enthusiast;Learning+Spring+Boot+and+REST+APIs;Learning+%7C+Building+%7C+Improving" alt="Animated Introduction" />
-
-<br/>
-
-### ☕ Java | Spring Boot | REST APIs | Databases
-
-<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-161B22?style=for-the-badge&labelColor=30363D" alt="Sri Lanka" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge&labelColor=30363D" alt="Collaboration" />
-<img src="https://img.shields.io/badge/Focus-Java%20Backend-0969DA?style=for-the-badge&labelColor=30363D" alt="Java Backend" />
-
-<br/><br/>
-
-I'm a Software Engineering undergraduate who enjoys learning new technologies and building projects. My main focus is Java backend development, and I'm working on improving my skills through practice and real projects.
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-161B22?style=for-the-badge&amp;labelColor=30363D" alt="Based in Sri Lanka" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge&amp;labelColor=30363D" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Backend-0969DA?style=for-the-badge&amp;labelColor=30363D" alt="Java backend focus" />
+</p>
 
 ## 👨‍💻 About Me
 
+```text
+pasindu@backend:~$ curl -i localhost:8080/api/v1/profile
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "name": "Pasindu Ransika",
+  "focus": "Java backend development",
+  "building": ["NatureFLOW", "GymBuddy"],
+  "openTo": "Software engineering internships"
+}
+```
+
 - 🎓 Studying Software Engineering at **The Open University of Sri Lanka**
-- ☕ Working towards becoming a **Java Backend Engineer**
-- 🌱 Currently learning **Java, Spring Boot, React, and REST APIs**
-- 🔐 Learning about **Spring Security, JWT, and authentication**
-- 🗄️ Working with **MySQL, SQL, and JPA/Hibernate**
-- 🧪 Practicing **JUnit, integration testing, and Postman**
-- 🐳 Exploring **Docker, Git, and GitHub Actions**
-- 🚀 Currently working on **NatureFLOW** and **GymBuddy**
-- 🤝 Interested in collaborating on Java and backend projects
-- 🎯 Preparing for my first Software Engineering internship
-- ⚡ Fun fact: I'm a huge WWE fan. Acknowledge the Tribal Chief! ☝️
+- 🔐 Learning how to secure APIs with **Spring Security and JWT**
+- 🧪 Practicing API testing with **JUnit and Postman**
+- ⚡ Outside of coding, I’m a WWE fan. Acknowledge the Tribal Chief! ☝️
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/pasinduransika">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:v.pasinduransika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/PasinduRansika?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/pasinduransika">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:v.pasinduransika@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/pasinduransika">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+## 📦 Dependencies
 
-</div>
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,php,c,html,css&theme=dark" alt="Programming Languages" />
-
-</div>
-
-### ⚙️ Frameworks & Libraries
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap&theme=dark" alt="Frameworks and Libraries" />
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-
-</div>
-
-### 🛠️ Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode&theme=dark" alt="Developer Tools" />
-
-</div>
+| Area | Stack |
+| :--- | :--- |
+| **Backend & database** | <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql&amp;theme=dark" alt="Java, Spring Boot, Maven, MySQL" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&amp;theme=dark" alt="React, JavaScript, HTML, CSS, Bootstrap" /> |
+| **Other languages & runtimes** | <img src="https://skillicons.dev/icons?i=python,c,php,nodejs&amp;theme=dark" alt="Python, C, PHP, Node.js" /> |
+| **Tools & CI** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode&amp;theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Postman, VS Code" /> |
 
 ## 🌟 Featured Projects
 
-### 🌱 NatureFLOW
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 NatureFLOW</h3>
+      <p><strong>Plantation Management System</strong></p>
+      <p>A team project for managing plants, plots, plantings, and plantation records.</p>
+      <p>My backend work includes REST APIs, authentication, database integration with JPA/Hibernate, and API testing.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>Docker</code></p>
+      <p><sub>🔒 Private team repository</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ GymBuddy</h3>
+      <p><strong>Gym Management System</strong></p>
+      <p>A personal Java project for practicing object-oriented programming and learning how to structure a gym management application.</p>
+      <p><code>Java</code> <code>OOP</code></p>
+      <p><sub>🚧 In progress</sub></p>
+    </td>
+  </tr>
+</table>
 
-**Plantation Management System**
+## 🎯 Currently Learning
 
-NatureFLOW is a team project focused on managing plantation activities and records. It includes features for managing plants, plots, plantings, and other plantation operations.
-
-**Technologies:** Java, Spring Boot, Spring Security, JWT, MySQL, React, Docker
-
-Some of the backend areas I've been working with include:
-
-- REST API development
-- Authentication and authorization
-- Database integration using JPA/Hibernate
-- API testing
-- Git branching and pull requests
-
-The team repository is currently private.
-
-### 🏋️ GymBuddy
-
-**Gym Management System**
-
-GymBuddy is a Java project I'm building to practice object-oriented programming and improve my understanding of application development.
-
-**Technologies:** Java, OOP
+| Area | What I’m practicing |
+| :--- | :--- |
+| **Java** | Collections, Streams, and exception handling |
+| **Spring Boot** | Structuring REST APIs with controllers, services, and repositories |
+| **Security** | Authentication and authorization with Spring Security and JWT |
+| **Databases** | SQL and persistence with MySQL and JPA/Hibernate |
+| **Testing** | Unit tests, integration tests, and API checks |
+| **DevOps** | Docker and GitHub Actions |
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="46%" src="./profile/top-langs.svg" alt="Most used languages in Pasindu Ransika's public repositories" />
+  <img width="46%" src="./profile/stats.svg" alt="Pasindu Ransika's GitHub statistics" />
+</p>
 
-### ⚡ GitHub Statistics
+<p align="center">
+  <a href="https://github.com/PasinduRansika?tab=overview">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduRansika&amp;bg_color=0d1117&amp;color=7ee787&amp;line=3fb950&amp;point=aff5b4&amp;area=true&amp;area_color=238636&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Pasindu Ransika's GitHub contribution activity" />
+  </a>
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=pasinduransika&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF"
-  alt="GitHub Statistics"
-  width="49%"
-/>
+<p align="center">
+  <a href="https://github.com/PasinduRansika?tab=overview">Contribution history</a>
+  ·
+  <a href="https://github.com/PasinduRansika?tab=achievements">Achievements</a>
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduransika&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;langs_count=8"
-  alt="Most Used Languages"
-  width="49%"
-/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img
-  src="https://streak-stats.demolab.com?user=pasinduransika&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=FF9E64&amp;currStreakLabel=58A6FF"
-  alt="GitHub Contribution Streak"
-  width="70%"
-/>
-
-<br/><br/>
-
-### 📅 Contribution History
-
-<a href="https://github.com/pasinduransika?tab=overview">
-  <img src="https://img.shields.io/badge/View-My_GitHub_Contributions-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Contributions"/>
-</a>
-
-<br/><br/>
-
-### 🏆 GitHub Achievements
-
-<a href="https://github.com/pasinduransika?tab=achievements">
-  <img src="https://img.shields.io/badge/View-My_Achievements-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="View GitHub Achievements"/>
-</a>
-
-</div>
-
-## 🎯 What I'm Learning
-
-| Technology | Topics |
-|:---|:---|
-| ☕ Java | OOP, Collections, Streams, Exception Handling |
-| 🌱 Spring Boot | REST APIs, Controllers, Services, Repositories |
-| 🔐 Security | Spring Security, JWT |
-| 🗄️ Databases | MySQL, SQL, JPA/Hibernate |
-| 🧪 Testing | JUnit, Postman, Integration Testing |
-| 🐳 DevOps | Docker, Git, GitHub Actions |
-| 🎨 Frontend | React, Responsive Web Development |
-
-## 💡 A Little Motivation
+---
 
 <div align="center">
 
